@@ -50,7 +50,9 @@ Add URL patterns in core/urls.py
 Create templates in core/templates/
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
+
 👤 Author
+
 robbie briceño, jesus ruiz and Kennedy ramos
 
 Built with ❤️ using Django 5
